@@ -1,0 +1,18 @@
+# misc
+.venv/
+.env
+media/
+
+# ide
+.idea/
+__pycache__/
+.vscode/
+
+# python
+*.pyc
+
+# mac
+.DS_Store
+
+# django
+*.sqlite3
